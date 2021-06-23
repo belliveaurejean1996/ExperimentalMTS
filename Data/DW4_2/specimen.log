@@ -1,0 +1,13 @@
+(03/10/2021 08:16:02) Information [Stmgr] "Manual command disabled: Ch Disp."
+(03/10/2021 08:16:04) Information [MPT Runtime] "Procedure Beginning: CompositeDLF_Rej.000"
+(03/10/2021 08:16:04) Information [MPT Runtime] "Running"
+(03/10/2021 08:17:13) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: 'Fini Ext1'"
+(03/10/2021 08:18:17) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: ''"
+(03/10/2021 08:19:37) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: ''"
+(03/10/2021 08:20:27) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: 'Boutton pour demarer la rampe Main'"
+(03/10/2021 08:22:36) Information [MPT Runtime] "Entering Stopped"
+(03/10/2021 08:22:36) Information [MPT Runtime] "Stopped
+ Running Time:  00:06:31 
+ Channel Counters:
+    Ch -          4  Cycles"
+(03/10/2021 08:23:25) Information [Stmgr] "Manual command enabled: Ch Disp."

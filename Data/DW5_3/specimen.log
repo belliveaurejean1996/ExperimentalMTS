@@ -1,0 +1,10 @@
+(03/17/2021 08:13:25) Information [Stmgr] "Manual command disabled: Ch Disp."
+(03/17/2021 08:13:27) Information [MPT Runtime] "Procedure Beginning: Flexion_DLF.000"
+(03/17/2021 08:13:27) Information [MPT Runtime] "Running"
+(03/17/2021 08:21:12) Information [MPT Runtime] "Entering Stopped"
+(03/17/2021 08:21:12) Information [MPT Runtime] "Stopped
+ Running Time:  00:07:45 
+ Channel Counters:
+    Ch -          0  Cycles"
+(03/17/2021 08:21:19) Information [Stmgr] "Manual command enabled: Ch Disp."
+(03/17/2021 08:22:02) Information [Stmgr] "Manual command disabled: Ch Disp."

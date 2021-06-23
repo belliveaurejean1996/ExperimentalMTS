@@ -1,0 +1,13 @@
+(03/10/2021 08:42:56) Information [MPT Runtime] "Procedure Beginning: CompositeDLF_Rej.000"
+(03/10/2021 08:42:56) Information [MPT Runtime] "Running"
+(03/10/2021 08:44:00) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: 'Fini Ext1'"
+(03/10/2021 08:45:03) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: ''"
+(03/10/2021 08:46:02) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: ''"
+(03/10/2021 08:46:53) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: 'Boutton pour demarer la rampe Main'"
+(03/10/2021 08:48:51) Information [MPT Runtime] "Entering Stopped"
+(03/10/2021 08:48:51) Information [MPT Runtime] "Stopped
+ Running Time:  00:05:54 
+ Channel Counters:
+    Ch -          4  Cycles"
+(03/10/2021 08:49:24) Information [Stmgr] "HPU -- No Pressure."
+(03/10/2021 08:49:24) Information [Stmgr] "HSM 1 -- Off."

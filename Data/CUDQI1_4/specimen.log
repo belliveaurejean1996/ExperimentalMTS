@@ -1,0 +1,15 @@
+(03/01/2021 07:46:55) Information [Stmgr] "Manual command disabled: Ch Disp."
+(03/01/2021 07:47:09) Information [MPT Runtime] "Procedure Beginning: CompositeQI_Rej.000"
+(03/01/2021 07:47:09) Information [MPT Runtime] "Running"
+(03/01/2021 07:48:06) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: 'Boutton pour demarer la rampe Main'"
+(03/01/2021 07:52:57) Information [MPT Runtime] "Entering Stopped"
+(03/01/2021 07:52:57) Information [MPT Runtime] "Stopped
+ Running Time:  00:05:47 
+ Channel Counters:
+    Ch -          1  Cycles"
+(03/01/2021 07:53:08) Information [Stmgr] "Manual command enabled: Ch Disp."
+(03/01/2021 07:53:47) Information [Stmgr] "HPU -- No Pressure."
+(03/01/2021 07:53:47) Information [Stmgr] "HSM 1 -- Off."
+(03/01/2021 07:54:09) Information [Stmgr] "Saved Views: 'Default Views'."
+(03/01/2021 07:54:09) Information [Stmgr] "Station ftse.cfg is closed."
+(03/01/2021 07:54:09) Information [FlexTest SE] "Saved Views: 'FTSE Default Views'."

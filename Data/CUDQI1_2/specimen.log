@@ -1,0 +1,11 @@
+(03/01/2021 07:30:30) Information [Stmgr] "Manual command disabled: Ch Disp."
+(03/01/2021 07:30:35) Information [MPT Runtime] "Procedure Beginning: CompositeQI_Rej.000"
+(03/01/2021 07:30:35) Information [MPT Runtime] "Running"
+(03/01/2021 07:31:35) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: 'Boutton pour demarer la rampe Main'"
+(03/01/2021 07:36:25) Information [MPT Runtime] "Entering Stopped"
+(03/01/2021 07:36:25) Information [MPT Runtime] "Stopped
+ Running Time:  00:05:50 
+ Channel Counters:
+    Ch -          1  Cycles"
+(03/01/2021 07:37:31) Information [Stmgr] "Manual command enabled: Ch Disp."
+(03/01/2021 07:38:22) Information [Stmgr] "Manual command disabled: Ch Disp."

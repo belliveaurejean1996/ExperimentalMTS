@@ -1,0 +1,18 @@
+(03/04/2021 12:54:30) Information [Stmgr] "Manual command disabled: Ch Disp."
+(03/04/2021 12:54:34) Information [MPT Runtime] "Procedure Beginning: CompositeDLF_Rej.000"
+(03/04/2021 12:54:34) Information [MPT Runtime] "Running"
+(03/04/2021 12:55:39) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: 'Fini Ext1'"
+(03/04/2021 12:56:45) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: ''"
+(03/04/2021 12:57:47) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: ''"
+(03/04/2021 12:58:39) Information [MPT/Operator Event] "Operator Event 'Button 1' Occurred: 'Boutton pour demarer la rampe Main'"
+(03/04/2021 13:00:32) Information [MPT Runtime] "Entering Stopped"
+(03/04/2021 13:00:32) Information [MPT Runtime] "Stopped
+ Running Time:  00:05:58 
+ Channel Counters:
+    Ch -          4  Cycles"
+(03/04/2021 13:00:39) Information [Stmgr] "Manual command enabled: Ch Disp."
+(03/04/2021 13:01:08) Information [Stmgr] "HSM 1 -- Off."
+(03/04/2021 13:01:08) Information [Stmgr] "HPU -- No Pressure."
+(03/04/2021 13:01:25) Information [Stmgr] "Saved Views: 'Default Views'."
+(03/04/2021 13:01:25) Information [Stmgr] "Station ftse.cfg is closed."
+(03/04/2021 13:01:25) Information [FlexTest SE] "Saved Views: 'FTSE Default Views'."
